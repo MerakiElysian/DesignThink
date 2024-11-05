@@ -1,7 +1,7 @@
 ### Steps to Follow:
- 1. Create Welcome Page.
- 2. Create LogIn / SignUp Page.
- 3. Create Dashboard.
+ 1. Create a Welcome Page.
+ 2. Create a LogIn / Signup Page.
+ 3. Create a Dashboard.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Welcome Page consists of:
@@ -13,5 +13,16 @@ Welcome Page consists of:
 - Pricing.
 - Reach Us or Contact us.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Dashboard consists of:
-- 
+The dashboard consists of:
+- Side Panel.
+   + Dashboard.
+   + Learn.
+   + Test/Exercise.
+   + Ask/Discuss.
+- Top Panel.
+   + Progress bar.
+   + Lesson or Page information/Detail.
+   + Search topic icon.
+- Content Panel.
+   + Lesson cards.
+   + Filter/Sort button.
